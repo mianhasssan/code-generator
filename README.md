@@ -263,7 +263,7 @@ Contributions are welcome! Please:
 
 ## 👨‍💼 Author
 
-Mian Muhammad Hassan / github.com/mianhasssan
+Mian Muhammad Hassan
 
 ## 📧 Contact & Support
 
