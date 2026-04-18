@@ -1,0 +1,6 @@
+langchain-groq==0.1.6
+langgraph==0.1.40
+pydantic==2.6.4
+python-dotenv==1.0.0
+langchain-core==0.1.46
+langchain==0.1.17
